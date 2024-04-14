@@ -8,3 +8,5 @@ we tried running it on google collab
 4. It will start giving the resulats for the every question once tht cell is run
 5. At the same moment it will start creating the output results in the output path folder for which the current path is
 output_path = "/content/sample_data/
+
+Results are present on the Results folder too which every folder containing 2 fcsv files with results.
